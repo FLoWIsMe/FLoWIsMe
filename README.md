@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FLoWIsMe
 - 👀 I’m interested in creating tools that everyone on Earth can find useful
-- 🌱 I have 4 years of C# experience, 3 years of Python, and I am currently learning SQL and Swift
+- 🌱 I have 5 years of C# experience, 5 years of Python, and I am currently learning React.
 - 💞️ I’m looking to collaborate on something cool ("cool" is up to your interpretation)
